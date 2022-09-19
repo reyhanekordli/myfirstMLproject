@@ -1,4 +1,4 @@
-# myfirstMLproject
+# Laptop price project
 
 In this project I estimated the price of a laptop with given informations as input:
 
